@@ -62,6 +62,7 @@ El objetivo de STP es mantener una red libre de bucles. Un camino libre de bucle
 
 
 ### RETOS.
+En primera instancia, se nos facilitó la repartición de roles en el equipo y pudimos empezar con anterioridad a plantear nuestra solución en base a nuestros requerimientos. Sin embargo, para nuestra segunda reunión enfrentamos problemas en nuestro montaje ya que en un principio los computadores no se lograban comunicar con otros, ya sea pertenecientes a la misma o diferentes Vlans. Acudimos a hacer un repaso capa por capa hasta encontrar el error, permitiendonos ir paso a paso y verificando que el montaje estuviese bine planteado. En primera instancia, algunos puertos de los switches no se econtraban cableados correctamente. Por otro lado, el modo de la Vlan 99, que su función era de truncamiento, estaba mal configurada, causando que la conexion de los computadores no fuese posible. 
 
 ### CONCLUSIONES Y RECOMENDACIONES.
 Fue de muchísima ayuda tener una repartición y seguimiento de las tareas, facilitó mucho el trabajo en general, y nos permitió realizar un buen trabajo. Nos quedó pendiente aún intentar implementar el sistema de versionamiento con Git, ya que como los archivos que genera Packet Tracer no son archivos de texto plano, no se puede hacer uso de Git de una forma fácil, pero tampoco buscamos muchas más opciones de hacerlo.
