@@ -7,6 +7,9 @@ La Universidad de los Julianes solicita el montaje y establecimiento de una red 
 
 ### MONTAJE.
 
+![image](https://user-images.githubusercontent.com/64561271/236713817-83a2477a-6888-4633-b49d-52c06f0a0dec.png)
+
+
 ### METODOLOGÍA SEGUIDA.
 
 * Red LAN: "Se conoce como red LAN (siglas del inglés: Local Área Network, que traduce Red de Área Local) a una red informática cuyo alcance se limita a un espacio físico reducido, como una casa, un departamento o a lo sumo un edificio" [1].
