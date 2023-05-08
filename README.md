@@ -10,6 +10,12 @@ La Universidad de los Julianes solicita el montaje y establecimiento de una red 
 #### Tabla de direccionamiento en base a la topología de red.
 ![image](https://user-images.githubusercontent.com/64561271/236713817-83a2477a-6888-4633-b49d-52c06f0a0dec.png)
 
+#### Cableado estructurado
+![image](https://user-images.githubusercontent.com/64561271/236714182-a845e1fd-0849-407a-a388-a9f3353b0b0a.png)
+![image](https://user-images.githubusercontent.com/64561271/236714240-31508c51-d655-4171-bdbc-a7eacbd28038.png)
+
+
+
 
 ### METODOLOGÍA SEGUIDA.
 
@@ -19,6 +25,13 @@ La Universidad de los Julianes solicita el montaje y establecimiento de una red 
 * Spanning Tree: "Spanning Tree Protocol (STP) es un protocolo de capa dos publicado en la especificación IEEE 802.1.
 El objetivo de STP es mantener una red libre de bucles. Un camino libre de bucles se consigue cuando un dispositivo es capaz de reconocer un bucle en la topología y bloquear uno o más puertos redundantes" [4].
 * Subneteo: "Hace referencia a la subdivisión de una red en varias subredes. El subneteo permite a los administradores de red, por ejemplo, dividir una red empresarial en varias subredes sin hacerlo público en Internet. Esto se traduce en que el router que establece la conexión entre la red e Internet se especifica como dirección única, aunque puede que haya varios hosts ocultos. Así, el número de hosts que están a disposición del administrador aumenta considerablemente" [5].
+
+### RESPUESTAS.
+
+#### 4. show ip interface brief
+
+![image](https://user-images.githubusercontent.com/64561271/236714157-6e2d0677-59ca-4100-b3b8-d9c0f4076a75.png)
+
 
 ### RETOS.
 
