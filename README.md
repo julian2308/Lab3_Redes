@@ -28,9 +28,30 @@ El objetivo de STP es mantener una red libre de bucles. Un camino libre de bucle
 
 ### RESPUESTAS.
 
-#### 4. show ip interface brief
+#### 4. Topología.
+![image](https://user-images.githubusercontent.com/64561271/236714304-37d601de-2ba9-4122-928f-c5442c8770d7.png)
+
+
+#### 4. show ip interface brief.
 
 ![image](https://user-images.githubusercontent.com/64561271/236714157-6e2d0677-59ca-4100-b3b8-d9c0f4076a75.png)
+
+#### 5. 
+![image](https://user-images.githubusercontent.com/64561271/236714388-ce6c4c30-78a2-4a93-8db1-af8a36991aaf.png)
+![image](https://user-images.githubusercontent.com/64561271/236714398-4d2428ec-16f7-469e-acda-d75282499af4.png)
+
+#### 7. show vlan 
+![image](https://user-images.githubusercontent.com/64561271/236714699-9619a449-88c1-4f73-afb0-7be96d922827.png)
+
+#### 8. interface fa0/0.x.  encapsulation dot1q xx
+![image](https://user-images.githubusercontent.com/64561271/236714728-738ab1e6-db81-48f8-94a5-20711cc15a4e.png)
+
+#### 9.
+![image](https://user-images.githubusercontent.com/64561271/236714850-29d6fbe0-8025-4ee6-a130-16166c5f8d51.png)
+![image](https://user-images.githubusercontent.com/64561271/236714864-4309cd21-a443-4fd8-a17d-276740f11d23.png)
+![image](https://user-images.githubusercontent.com/64561271/236714871-1a849a1c-d029-4a9a-b4fe-4c60dc8a89de.png)
+
+
 
 
 ### RETOS.
