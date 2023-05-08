@@ -47,11 +47,15 @@ El objetivo de STP es mantener una red libre de bucles. Un camino libre de bucle
 ![image](https://user-images.githubusercontent.com/64561271/236714728-738ab1e6-db81-48f8-94a5-20711cc15a4e.png)
 
 #### 9.
-![image](https://user-images.githubusercontent.com/64561271/236714850-29d6fbe0-8025-4ee6-a130-16166c5f8d51.png)
+![image](https://user-images.githubusercontent.com/64561271/236714850-29d6fbe0-8025-4ee6-a130-16166c5f8d51.png) pc a su default gateway
+![image](https://user-images.githubusercontent.com/64561271/236714973-1630c64e-8ce2-4105-a51c-9f9045bb304b.png) pc 0 al pc4 (misma vlan
+![image](https://user-images.githubusercontent.com/64561271/236714980-c1f47257-ed3c-4f22-8360-64c39f8d2878.png) pc0 a pc 7 (diferente vlan)
+
+
+
+#### 10.
 ![image](https://user-images.githubusercontent.com/64561271/236714864-4309cd21-a443-4fd8-a17d-276740f11d23.png)
 ![image](https://user-images.githubusercontent.com/64561271/236714871-1a849a1c-d029-4a9a-b4fe-4c60dc8a89de.png)
-
-
 
 
 ### RETOS.
