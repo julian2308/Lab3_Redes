@@ -54,14 +54,22 @@ El objetivo de STP es mantener una red libre de bucles. Un camino libre de bucle
 ![image](https://user-images.githubusercontent.com/64561271/236714980-c1f47257-ed3c-4f22-8360-64c39f8d2878.png) 
 ##### pc0 a pc 7 (diferente vlan)
 
-
-
 #### 10.
 ![image](https://user-images.githubusercontent.com/64561271/236714864-4309cd21-a443-4fd8-a17d-276740f11d23.png)
 ![image](https://user-images.githubusercontent.com/64561271/236714871-1a849a1c-d029-4a9a-b4fe-4c60dc8a89de.png)
 
+#### 11. Evidencias simulación en PacketTracer:
+
+![91fc7047-2eb6-4a5e-9019-4a4d2c609b0b](https://user-images.githubusercontent.com/110574175/236722333-4d1483e0-49dc-4db8-b09d-a82afc597c35.jpg)
+![3ddf55a0-d69e-49ff-a154-6403775b3a88](https://user-images.githubusercontent.com/110574175/236722361-c8677289-a72e-4333-b6dd-9587941214c5.jpg)
+#### Simulación de paquetes en el primer intento con protocolos ICMP, ARP y STP.
+
+![8d1508c4-e410-4a03-80b7-d8b13037c905](https://user-images.githubusercontent.com/110574175/236722488-c1fc4c9c-d546-4d63-977f-886644ac0b91.jpg)
+#### Resultado obtenido al realizar un segundo envio de paquete.
+
 
 ### RETOS.
+
 En primera instancia, se nos facilitó la repartición de roles en el equipo y pudimos empezar con anterioridad a plantear nuestra solución en base a nuestros requerimientos. Sin embargo, para nuestra segunda reunión enfrentamos problemas en nuestro montaje ya que en un principio los computadores no se lograban comunicar con otros, ya sea pertenecientes a la misma o diferentes Vlans. Acudimos a hacer un repaso capa por capa hasta encontrar el error, permitiendonos ir paso a paso y verificando que el montaje estuviese bine planteado. En primera instancia, algunos puertos de los switches no se econtraban cableados correctamente. Por otro lado, el modo de la Vlan 99, que su función era de truncamiento, estaba mal configurada, causando que la conexion de los computadores no fuese posible. 
 
 ### CONCLUSIONES Y RECOMENDACIONES.
