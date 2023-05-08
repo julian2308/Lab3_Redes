@@ -7,6 +7,7 @@ La Universidad de los Julianes solicita el montaje y establecimiento de una red 
 
 ### MONTAJE.
 
+#### Tabla de direccionamiento en base a la topología de red.
 ![image](https://user-images.githubusercontent.com/64561271/236713817-83a2477a-6888-4633-b49d-52c06f0a0dec.png)
 
 
